@@ -1,4 +1,2 @@
 # github-practice
 
-
-github-practice
