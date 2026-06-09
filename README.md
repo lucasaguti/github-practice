@@ -1,4 +1,4 @@
 # github-practice
 
 
-git new
+github-practice
